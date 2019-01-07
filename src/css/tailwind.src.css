@@ -21,6 +21,10 @@
   @apply text-white text-3xl;
 }
 
+/* .nav-link {
+  @apply text-white hover:text-grey no-underline;
+} */
+
 /** Footer **/
 
 .footer-wrapper {
